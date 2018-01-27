@@ -5,7 +5,7 @@
 body {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 12px;
-	background: #000000 url(/web/20170609063430im_/http://astronomycamp.org/images/bg.jpg);
+	background: #000000 url(../images/bg.jpg);
         /*background: #000000;*/
 	color: #CCCCCC;
 }
@@ -21,7 +21,7 @@ body {
 	display: block;
 	width: 760px;
 	margin: 20px;
-	background: url(/web/20170609063430im_/http://astronomycamp.org/images/main_bg.jpg) #262626;
+	background: url(../images/main_bg.jpg) #262626;
 	/* background: #262626; */
 }
 .corner_container {
@@ -33,28 +33,28 @@ body {
 	display: block;
 	width: 8px;
 	height: 8px;
-	background: url(/web/20170609063430im_/http://astronomycamp.org/images/corner_left.gif) no-repeat;
+	background: url(../images/corner_left.gif) no-repeat;
 	float: left;
 }
 .topcorner_right {
 	display: block;
 	width: 8px;
 	height: 8px;
-	background: url(/web/20170609063430im_/http://astronomycamp.org/images/corner_right.gif) no-repeat;
+	background: url(../images/corner_right.gif) no-repeat;
 	float: right;
 }
 .bcorner_left {
 	display: block;
 	width: 8px;
 	height: 8px;
-	background: url(/web/20170609063430im_/http://astronomycamp.org/images/bcorner_left.gif) no-repeat;
+	background: url(../images/bcorner_left.gif) no-repeat;
 	float: left;
 }
 .bcorner_right {
 	display: block;
 	width: 8px;
 	height: 8px;
-	background: url(/web/20170609063430im_/http://astronomycamp.org/images/bcorner_right.gif) no-repeat;
+	background: url(../images/bcorner_right.gif) no-repeat;
 	float: right;
 }
 #banner {
@@ -77,7 +77,7 @@ body {
 	display: block;
 	width: 1px;
 	height: 25px;
-	/* background: url(/web/20170609063430im_/http://astronomycamp.org/images/link_spacer.gif) no-repeat top; */
+	/* background: url(../images/link_spacer.gif) no-repeat top; */
 	float: left;
 }
 .link_box {
@@ -85,18 +85,18 @@ body {
 	height: 15px;
 	padding: 5px 0px;
 	float: left;
-	background: url(/web/20170609063430im_/http://astronomycamp.org/images/link_background180.gif) repeat-x bottom #222222;
+	background: url(../images/link_background180.gif) repeat-x bottom #222222;
 	margin-left: 1px;
 	text-align: center;
         font-weight: bold;
         color: #FFFFFF;
 }
 .link_box:hover{
-	background: url(/web/20170609063430im_/http://astronomycamp.org/images/link_background_hover.gif) repeat-x top;
+	background: url(../images/link_background_hover.gif) repeat-x top;
 color: #FFFFFF; text-decoration: none; 
 }
 .selected {
-	background: url(/web/20170609063430im_/http://astronomycamp.org/images/link_background_hover.gif) repeat-x top;
+	background: url(../images/link_background_hover.gif) repeat-x top;
 }
 .home {width: 53px; text-align: center;}
 .link_image {
@@ -239,12 +239,3 @@ padding: 0px 0px 8px 0px;
 
 -->
 
-
-/*
-     FILE ARCHIVED ON 06:34:30 Jun 09, 2017 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 15:27:26 Jan 27, 2018.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
