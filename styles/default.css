@@ -1,0 +1,250 @@
+@charset "utf-8";
+/* CSS Document */
+
+<!--
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background: #000000 url(/web/20170609063430im_/http://astronomycamp.org/images/bg.jpg);
+        /*background: #000000;*/
+	color: #CCCCCC;
+}
+.extra_space {
+	margin-top: 10px;
+}
+#wrapper {
+	display: block;
+	width: 800px;
+	margin: 0px auto;
+}
+#main_container {
+	display: block;
+	width: 760px;
+	margin: 20px;
+	background: url(/web/20170609063430im_/http://astronomycamp.org/images/main_bg.jpg) #262626;
+	/* background: #262626; */
+}
+.corner_container {
+	display: block;
+	height: 8px;
+	width: 760px;
+}
+.topcorner_left {
+	display: block;
+	width: 8px;
+	height: 8px;
+	background: url(/web/20170609063430im_/http://astronomycamp.org/images/corner_left.gif) no-repeat;
+	float: left;
+}
+.topcorner_right {
+	display: block;
+	width: 8px;
+	height: 8px;
+	background: url(/web/20170609063430im_/http://astronomycamp.org/images/corner_right.gif) no-repeat;
+	float: right;
+}
+.bcorner_left {
+	display: block;
+	width: 8px;
+	height: 8px;
+	background: url(/web/20170609063430im_/http://astronomycamp.org/images/bcorner_left.gif) no-repeat;
+	float: left;
+}
+.bcorner_right {
+	display: block;
+	width: 8px;
+	height: 8px;
+	background: url(/web/20170609063430im_/http://astronomycamp.org/images/bcorner_right.gif) no-repeat;
+	float: right;
+}
+#banner {
+	display: block;
+	width: 740px;
+	margin: 2px 10px 0px 10px;
+	border: 1px solid #7F84A0;
+}
+#link_container {
+	display: block;
+	margin: 0px 10px 10px 10px;
+	width: 740px;
+	height: 25px;
+	background: #222222;
+	border-bottom: 1px solid #7F84A0;
+	border-left: 1px solid #7F84A0;
+	border-right: 1px solid #7F84A0;
+}
+.link_spacer {
+	display: block;
+	width: 1px;
+	height: 25px;
+	/* background: url(/web/20170609063430im_/http://astronomycamp.org/images/link_spacer.gif) no-repeat top; */
+	float: left;
+}
+.link_box {
+	display: block;
+	height: 15px;
+	padding: 5px 0px;
+	float: left;
+	background: url(/web/20170609063430im_/http://astronomycamp.org/images/link_background180.gif) repeat-x bottom #222222;
+	margin-left: 1px;
+	text-align: center;
+        font-weight: bold;
+        color: #FFFFFF;
+}
+.link_box:hover{
+	background: url(/web/20170609063430im_/http://astronomycamp.org/images/link_background_hover.gif) repeat-x top;
+color: #FFFFFF; text-decoration: none; 
+}
+.selected {
+	background: url(/web/20170609063430im_/http://astronomycamp.org/images/link_background_hover.gif) repeat-x top;
+}
+.home {width: 53px; text-align: center;}
+.link_image {
+	float: left;
+	margin-left: 6px;
+	margin-right: 6px;
+	border: 0px;
+}
+#more_info {
+	display: block;
+	margin-left: 10px;
+	margin-bottom: 0px;
+	width: 178px;
+	padding: 6px;
+	background: #111111;
+	border: 1px solid #7F84A0;
+	float: left;
+}
+#more_info a {
+	font-size: 14px;
+}
+#more_info_header {
+	display: block;
+	margin-left: 10px;
+	width: 180px;
+	height: 12px;
+	padding: 6px;
+	font-weight: bold;
+	font-size: 14px;
+	float: left;
+	margin-bottom: 5px;
+	color: #ffffff;
+}
+.small { font-size: 10px; }
+.title { 
+	font-size: 14px;
+	color: #ffffff;
+}
+.white { color: #ffffff; }
+.bigger {font-size: 14px; }
+.bigger_title {font-size: 20px; }
+#main_header {
+	display: block;
+	width: 536px;
+	float: left;
+	margin-left: 10px;
+	height: 12px;
+	padding: 6px;
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 5px;
+	color: #ffffff;
+}
+#main_header_full {
+	display: block;
+	width: 736px;
+	margin-left: 10px;
+	height: 12px;
+	padding: 6px;
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 5px;
+	color: #ffffff;
+}
+#main {
+	display: block;
+	margin-left: 10px;
+	margin-bottom: 0px;
+	width: 524px;
+	padding: 6px;
+	background: #111111;
+	border: 1px solid #7F84A0;
+	float: left;
+}
+.main_full {
+	display: block;
+	margin: 0px 10px;
+	width: 726px;
+	padding: 6px;
+	background: #111111;
+	border: 1px solid #7F84A0;
+}
+.main_full_banner {
+	display: block;
+	margin: 0px 10px;
+	width: 726px;
+	padding: 6px;
+	background: #111111;
+	border: 1px solid #7F84A0;
+	text-align: center;
+}
+a { color: #9EBDFF; text-decoration: none;}
+a:hover { color: #6696FF; text-decoration: underline; }
+a img {border: 1px solid #5B607B;}
+/*a { color: #efae6b; text-decoration: none; }*/
+/*a:hover { color: #efae6b; text-decoration: underline; }*/
+strong { 
+	color: #FFFFFF;
+}
+#content_wrap {
+	display: block;
+	width: 760px;
+	margin: 0px;
+}
+
+#copyright {
+	display: block;
+	width: 738px;
+	height: 44px;
+	margin: 12px 10px 2px 10px;
+	padding: 4px 0px 0px 0px;
+	border: 1px solid #7F84A0;
+	text-align: center;
+	background: #111111;
+}
+.header_text {
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.list_space li{
+padding: 0px 0px 8px 0px;
+}
+.bib em {
+color: #FFFFFF;
+}
+.bib strong {
+color: #FFFFFF;
+}
+.bib li{
+padding: 0px 0px 8px 0px;
+}
+.camp em {
+color: #FFFFFF;
+}
+.camp li{
+padding: 0px 0px 8px 0px;
+}
+
+
+-->
+
+
+/*
+     FILE ARCHIVED ON 06:34:30 Jun 09, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:27:26 Jan 27, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
