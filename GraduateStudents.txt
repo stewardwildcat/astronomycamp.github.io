@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">  <head>    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />    <title>Former Astronomy Campers With Graduate Degrees</title>    <link rel="shortcut icon" href="./favicon.ico" />    <link rel="stylesheet" type="text/css" href="./styles/default.css" /></head>  <body>    <!-- WRAP THE SITE -->    <!-- Sets site to 800px and centers -->    <div id="wrapper">      <!-- START CONTAINER -->      <div id="main_container">        <!-- START TOP CORNERS -->        <div class="corner_container">          <div class="topcorner_left"></div>          <div class="topcorner_right"></div>        </div>        <!-- STOP TOP CORNERS -->        <!-- START DISPLAY BANNER -->        <div id="banner"><img src="images/banner_updated.jpg" width="740" height="125" /></div>        <!-- STOP DISPLAY BANNER -->        <!-- START LINKS MENU -->        <div id="link_container">	  <!-- Display each Link, use <a> as block, last link and first link should "balance" the link bar and make it the full 758px -->	  <a href="./index.html" class="link_box home">Home</a>	  <a href="./information.html" class="link_box" style="width: 101px;">Information</a>  	  <a href="./docs/flyer.htm" class="link_box" style="width: 40px;">Flyer</a>	  <a href="./facilities.html" class="link_box" style="width: 81px;">Facilities</a>	  <a href="./register.html" class="link_box" style="width: 104px;">Registration</a>	  <a href="./publications.html" class="link_box" style="width: 103px;">Publications</a>	  <a href="./past_campers.html" class="link_box" style="width: 70px;">Alumni</a>	  <a href="./awards.html" class="link_box" style="width: 75px;">Awards</a>	  <a href="./links.html" class="link_box" style="width: 48px; text-align: center;">Links</a>	  <a href="./shirts.html" class="link_box" style="width: 48px; text-align: center;">Shirts</a>	</div>        <!-- STOP LINKS MENU -->        <!-- START MAIN CONTENT WRAPPER -->        <!-- SET HEIGHT OF THE PAGE HERE-->        <!-- 10350px by standard, 100% works in IE7, FF2, and FF3 -->        <div id="content_wrap" style="height: 100%;">          <!-- START BANNER IMAGE -->          <!-- short descriptions above and below are here -->           <!-- STOP BANNER IMAGE -->          <!-- START CONTENT HEADER -->          <!-- HEADER: Camp Info -->          <div id="main_header_full" class="extra_space">Former Adult Campers Awarded PhD Degrees</div>          <!-- STOP CONTENT HEADER -->          <!-- START MAIN BAR -->	<div class="main_full">	<strong>Marsha Wolf</strong>: PhD (Astronomy), University of Texas - Austin, 2005 <br/>	</div>          <!-- STOP BANNER IMAGE -->          <!-- START CONTENT HEADER -->          <!-- HEADER: Camp Info -->          <div id="main_header_full" class="extra_space">Former Teen Campers Awarded PhD Degrees</div>          <!-- STOP CONTENT HEADER -->          <!-- START MAIN BAR -->          	<div class="main_full">       	
+		<strong>Cathy Ai</strong>: (Dental School), UCLA, 2005 
+<br/>	<br/>	<strong>Brad Barlow</strong>: PhD (Astrophysics), University of North Carolina, 2011 
+<br/>	<br/>	<strong>Matt Berkman</strong>: MD FACEP, The University of Arizona, ~2003 
+<br/>	<br/>	
+
+<strong>Laura Boon</strong>: PhD (Accelerator Physics), Purdue, 2014, 
+<br/>	<br/>
+	<strong>Tim Bowers</strong>:  PhD (Astronomy), University of Colorado - Boulder, 2014
+<br/>	<br/>	<strong>Christina Bronson-Lowe</strong>: PhD, Univ. Chicago, 20??; MS (Speech & Hearing Sciences), The University of Arizona, 2001 
+<br/>	<br/>
+
+	<strong>Caitlin Casey</strong>: PhD (Astronomy), Cambridge, 2010 
+<br/>	<br/>	<strong>Jason Dittmann</strong>: PhD (Astronomy and Astrophysics), Harvard, 2016
+<br/>	<br/>	<strong>Ewan Douglas</strong>: PhD (Astronomy), Boaton University, 2016
+<br/>	<br/>	<strong>Sidney Edsall</strong>: MD, The University of Arizona 
+<br/>	<br/>	<strong>Jill Fadal</strong>: MD and MBA, Texas Tech University Health Sciences Center, 2016, 2011
+<br/>	<br/>	<strong>Deborah (McCarthy) Fields</strong>: PhD (Education), UCLA, 2010; MS (Education) Univ. Wisconsin, 2002 
+<br/>	<br/>	<strong>Becky Fox</strong>: PhD (Animal Behavior), UC Davis, 2007; MS (Avian Studies) UC Davis, 2002 
+<br/>	<br/>	<strong>Cyndi (Gentry) Carr</strong>: PhD (Neuroscience), The University of Arizona, 2006 
+<br/>	<br/>	<strong>Nathalie Haurberg</strong>: PhD (Asronomy), Indiana University, 2013; MA (Astronomy), Indiana University, 2008
+<br/>	<br/>	<strong>Sarah Jaeggli</strong>:  PhD (Astronomy), University of Hawaii, 2011 
+<br/>	<br/>	<strong>James Keane</strong>: PhD (Planetary Science), The University of Arizona, 2017
+<br/>	<br/>	<strong>Patrick Kelly</strong>: PhD (Astronomy), Stanford, 2012  
+<br/>	<br/>	<strong>Charlie Lawton</strong>: PhD (Ecology & Evolutionary Biology), University of Colorado, 2010 
+<br/>	<br/>	<strong>Joanna Levine</strong>:  PhD (Astronomy), University of Florida, 2006 
+<br/>	<br/>	<strong>Chris Limbach</strong>: PhD (Mechanical & Aerospace Engineering), Princeton, 2015
+<br/>	<br/>	<strong>Chris Martin</strong>, PhD (Chemical & Materials Engineering), Princeton, 2005; MSCEP (Chemical Engineering), MIT, 1999 
+<br/>	<br/>
+	<strong>Elan Mitchell-Gee</strong>: PhD (Political Science, International Relations and Public Policy and Public Administration), Howard University, 2017
+<br/>	<br/>	<strong>Max Moe</strong>: PhD (Astronomy), Harvard, 2015 
+<br/>	<br/>	<strong>Mary Milewski</strong>: PhD (Pharmacy), University of Mississippi, 20??
+<br/>	<br/>	<strong>Tim Mosca</strong>: PhD (Neurobiology), Harvard, 2009; MS  (Molecular & Cellular Biology), Yale, 2003 
+<br/>	<br/>	<strong>John Moustakas</strong>:  PhD (Astronomy), The University of Arizona, 2006 
+<br/> 	<br/>	<strong>Kristina Nyland</strong>: PhD (Astrophysics), New Mexico Tech, 2015
+<br/>	<br/>	<strong>Ben Oppenheimer</strong>:  PhD (Astronomy), The University of Arizona, 2008 
+<br/>	<br/>	<strong>Nick Pattengale</strong>: PhD, MS (Bioinformatics), University of New Mexico, 2010, 2005
+<br/>	<br/>	<strong>Diana Perry</strong>: Doctor of Podiatric Medicine, Western University of Health Sciences, 2017
+<br/>	<br/>	<strong>Emily Petroff</strong>: PhD (Astrophysics), Swinburne University of Technology, 2015
+<br/>	<br/>	<strong>Henry Roe</strong>:  PhD (Astronomy), UC Berkeley, 2003 
+<br/>	<br/>	<strong>Rob Simcoe</strong>:  PhD (Astronomy), Caltech, 2003 
+<br/>	<br/>	<strong>Vera te Velde</strong/>:  PhD (Economics), University of California, Berkeley, 2014
+<br/>	<br/>	<strong>Amy Tempkin</strong>: MD, The University of Arizona, 2001 
+<br/>	<br/>	<strong>Christina Vitale</strong>: JD, American University's Washington College of Law, 2005 
+<br/> 	<br/>	<strong>Mark Vitale</strong>: PhD (Organizational Management & Leadership), Capella University, 2008; MBA, The University of Arizona, 1998 
+
+<br/>	<br/>	</div><div id="main_header_full" class="extra_space">Former Teen Campers Awarded Masters Degrees</div>          <!-- STOP CONTENT HEADER -->          <!-- START MAIN BAR -->		<div class="main_full">	
+		<strong>Silvana Ayala</strong>: MA (Creative Writing), University of Texas El Paso, 2010 
+<br/>	<br/>	<strong>Kayla Barnett</strong>: MBA (Accounting), The University of Arizona's  Eller School of Management, 2011
+<br/>	<br/>	<strong>AJ Carver</strong>: MS (Quantitative Economics), Université Paris 1 Panthéon-Sorbonne, 2009 
+<br/>	<br/>	<strong>Yvette Cendes</strong>: MS (Physics), Case Western Reserve University, 2010 
+<br/>	<br/>	<strong>Amber Chesborough</strong>: MBA, MSME (Mechanical Engineering), MIT 
+<br/> 	<br/>	<strong>Mary (Comfort) Conner</strong>: MEd (Educational Policies & Foundations of Administration), Portland State University 
+<br/>	<br/>	<strong>Steve Conner</strong>:  MS (Computer Science), The University of Arizona, 1998 
+<br/>	<br/>	<strong>Nathan Eck</strong>: M.Sc. (Geology), University of Nevada-Las Vegas, 2010 
+<br/>	<br/>	<strong>Stevi Fawcett</strong>:  MS (Astronomy), University of Wyoming, 2007 
+<br/>	<br/>	<strong>Ariel Fisher</strong>: MS (Landscape Architecture), The University of Arizona 
+<br/>	<br/>	<strong>Lucia Galvan</strong>: MB (Management), Instituto Tecnológico y de Estudios Superiores de Monterrey, 2008 
+<br/>	<br/>	<strong>Jessica (Hejnal) Bentele</strong>: MA (Library Science), University of Missouri, 2010 
+<br/>	<br/>	<strong>Diana (Johnson) Coppenbarger</strong>: MS (Astronomy & Physics), University of Rochester, 1995 
+<br/>	<br/>	<strong>Christina Bronson-Lowe</strong>: MS (Speech & Hearing Sciences), The University of Arizona, 2001 
+<br/>	<br/>	<strong>David McCarthy</strong>: MBA (Accounting), The University of Arizona, 2005; MA (Classical Archaeology) Wheaton College, 2002 
+<br/>	<br/>	<strong>Nicole Miklus</strong>: MS (Paleontology and Paleoclimate), Syracuse University, 2006 
+<br/>	<br/>	<strong>Kurtz Miller</strong>: M.Ed. (Educational Leadership) Wright State University, 2008; MS (Geology), 2004; MS (Science Teaching) Wright State University 
+<br/>	<br/>	<strong>Katie Moore</strong>:  M.A.T. (Museum Education), George Washington University, 2007 
+<br/>	<br/>	<strong>Dan Murphy</strong> MA (Chinese Studies), University of Massachusetts, 2006; Graduate certificate in Chinese Studies (Johns Hopkins- Nanjing University), 2007 
+<br/>	<br/>	<strong>Josh Neubert</strong>:  MS (Earth, Atmospheric, & Planetary Science), MIT, 2003 
+<br/>	<br/>	<strong>Emily Olson</strong>: M.A. (Art History and Archaeology), Washington University in St. Louis, 2009 
+<br/>
+	<br/>	<strong>Lauren Rich</strong>: MS (Optical Science), The University of Central Florida, 2010 
+<br/>	<br/>	<strong>Jason Rudd</strong>: M.Sc. (Neurolinguistics)  Universities of Potsdam (Germany) and Groningen (The Netherlands), 2006 
+<br/>	<br/>
+	<strong>Elizabeth Waterhouse</strong>: MFA (Dance), Ohio State University 
+<br/>	<br/>	<strong>Matthew Whitehouse</strong>: DMA (Musical Arts), The University of Arizona, 2012 
+<br/>	<br/>	<strong>Brenda Wilden</strong>: MS (Astrophysics), UC Santa Cruz, 2001 
+
+<br/>	</div><div id="main_header_full" class="extra_space">Former Teen Campers Pursuing Advanced Degrees</div>          <!-- STOP CONTENT HEADER -->          <!-- START MAIN BAR -->		<div class="main_full">		
+		<strong>Sarah Benjamin</strong>: PhD (Astronomy), Yale University 
+<br/>	<br/>	<strong>Nora (Byars) Phillips</strong>: PhD (Human Development & Family Studies), Texas Tech University; M. Ed. (Education) Wayland Baptist University, 2009
+<br/>	<br/>	<strong>Yvette Cendes</strong>: PhD (Astronomy), the University of Amsterdam; MS (Physics) Case Western Reserve University, 2010 
+<br/>	<br/>	<strong>Rebecca Dell</strong>: PhD (Physical Oceanography), MIT
+<br/>	<br/>	<strong>Rebecca Jensen-Clem</strong>: PhD (Astronomy), Caltech  
+<br/>	<br/>	<strong>Emily Olson</strong>: PhD (Art History with a focus is Classical Art and Archaeology), University of North Carolina at Chapel Hill 	
+<br/>	<br/>	<strong>Allison Towner</strong/>: PhD (Astronomy) University of Virginia
+<br/>	<br/>	<strong>Jake Turner</strong/>: PhD (Astronomy) University of Virginia
+<br/>	<br/>		
+<br/>            If you know of any other news about former Campers and Counselors, please email <A HREF="mailto:dmccarthy@as.arizona.edu">dmccarthy@as.arizona.edu</A>. </div>          <!-- STOP MAIN BAR -->        </div>        <!-- STOP MAIN CONTENT WRAPPER -->        <!-- START COPYRIGHT -->	<div id="copyright"><span class="small"><a href="index.html">Home</a> | <a href="information.html">Information</a> | <a href="register.html">Registration</a> | <a href="publications.html">Articles</a> | <a href="links.html">Links</a></span><br />	  <span class="white">All Images, Media and Content - <strong><em>Copyright &copy; 2012</em></strong> <strong>Astronomy Camp</strong></span><br />	  <span class="small">Site Design by Jacob Omann. Maintained by <strong>Astronomy Camp</strong>. Updated December 22, 2012</span></div>	<!-- STOP COPYRIGHT -->        	<!-- START BOTTOM CORNERS -->	<div class="corner_container"><div class="bcorner_left"></div><div class="bcorner_right"></div></div>	<!-- STOP BOTTOM CORNERS -->	      </div>      <!-- STOP CONTAINER -->          </div>    <!-- STOP MAIN WRAPPER --><script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-173029-2");pageTracker._trackPageview();} catch(err) {}</script>      </body></html>
