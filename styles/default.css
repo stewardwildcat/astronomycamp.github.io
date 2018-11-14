@@ -61,7 +61,7 @@ body {
 	display: block;
 	width: 740px;
 	margin: 2px 10px 0px 10px;
-	/*border: 1px solid #7F84A0;*/	border: 1px solid #0C234B;
+	/*border: 1px solid #7F84A0;*/	border: 1px solid #AB0520;
 }
 #link_container {
 	display: block;
@@ -72,9 +72,9 @@ body {
 	/*border-bottom: 1px solid #7F84A0;
 	border-left: 1px solid #7F84A0;
 	border-right: 1px solid #7F84A0;*/
-	border-bottom: 1px solid #0C234B;
-	border-left: 1px solid #0C234B;
-	border-right: 1px solid #0C234B;
+	border-bottom: 1px solid #AB0520;
+	border-left: 1px solid #AB0520;
+	border-right: 1px solid #AB0520;
 }
 .link_spacer {
 	display: block;
