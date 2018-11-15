@@ -90,18 +90,19 @@ body {
 	height: 15px;
 	padding: 5px 0px;
 	float: left;
-	background: url(../images/link_background180.gif) repeat-x bottom #222222;
+	background: url(../images/link_background180.png) repeat-x bottom #222222;
 	margin-left: 1px;
 	text-align: center;
-        font-weight: bold;
-        color: #FFFFFF;
+    font-weight: bold;
+    color: #FFFFFF;
 }
 .link_box:hover{
-	background: url(../images/link_background_hover.gif) repeat-x top;
-color: #FFFFFF; text-decoration: none; 
+	background: url(../images/link_background_hover.png) repeat-x top;
+	color: #FFFFFF; 
+	text-decoration: none;
 }
 .selected {
-	background: url(../images/link_background_hover.gif) repeat-x top;
+	background: url(../images/link_background_hover.png) repeat-x top;
 }
 .home {width: 53px; text-align: center;}
 .link_image {
