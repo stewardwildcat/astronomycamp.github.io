@@ -20,9 +20,13 @@ body {
 }
 #main_container {
 	display: block;
-	width: 760px;
+	width: 764px;
 	margin: 20px;
 	background: url(../images/main_bg.jpg) #262626;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
 	/*background: #262626;*/
 }
 .corner_container {
