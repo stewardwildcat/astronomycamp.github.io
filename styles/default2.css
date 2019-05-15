@@ -247,6 +247,8 @@ strong {
 	border: 2px solid #0C234B;
 	text-align: center;
 	background: #E2E9EB;
+	/*position: absolute;
+	bottom: 10;*/s
 }
 #shirt_table {
 	background: #F4EDE5;
