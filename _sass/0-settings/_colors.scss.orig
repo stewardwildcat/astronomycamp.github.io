@@ -2,7 +2,7 @@
 $primary-color: #1ABC9C;
 $secondary-color: #C19CD8;
 $highlight: #ffeea8;
-$text: #e4e9f3;
+$text: #C9D3E7;
 $gray-blue: #707890;
 $white: #ffffff;
 $black: #101010;
