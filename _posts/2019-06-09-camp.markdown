@@ -26,7 +26,7 @@ We are proud that <a href="GraduateStudents.html">former Campers</a> earned adva
 ### Parents
 Parents often ask why Astronomy Camps are life-changing for both them and their children. <a href="publications.html#Contributions">Educational research</a> reveals several reasons:
 
-<ul body-color: #ffffff;>
+<ul text-color: white>
 <li>Real scientists as mentors.</li>
 <li>A personal approach, treating youth as colleagues rather than children.</li>
 <li><em>Authentic</em> scientific inquiry with realistic projects involving modern equipment.</li>
