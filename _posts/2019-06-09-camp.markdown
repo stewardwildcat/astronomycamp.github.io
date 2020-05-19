@@ -5,7 +5,7 @@ date:   2019-06-09 16:00005 -0800
 image:  11.jpg
 tags:   
 ---
-![]({{site.baseurl}}/img/11.jpg)
+![]({{site.baseurl}}/img/11.jpg)<img alt="Astronomy Camp 2019: Continuing to inspire through authentic exploration." title="Come explore the skies with students from around the world. (Image from Apollo 15; July 26, 1971)" src="img/11.jpg">
 
 ## Astronomy Camp
 
