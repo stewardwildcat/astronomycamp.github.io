@@ -2,7 +2,7 @@
 layout: post
 title:  Astronomy Camp
 date:   2020-05-19 18:00000 -0800
-image:  11.jpg
+image:  02.jpg
 description: Astronomy Camp is all about discovering the Eureka moment!
 tags:
 ---
@@ -24,7 +24,7 @@ Astronomy Camp is described in numerous <a href="./publications.html">publicatio
 We are proud that <a href="GraduateStudents.html">former Campers</a> earned advanced degrees in a wide variety of disciplines and that <a href="./past_campers.html">many others</a>, including <a href="./CampCounselors.html">our staff</a>, have become leaders in their respective fields. 
 
 ### Parents
-Parents often ask why Astronomy Camps are life-changing for both them and their children. <a href="publications.html#Contributions">Educational research</a> reveals several reasons: And here they are
+Parents often ask why Astronomy Camps are life-changing for both them and their children. <a href="publications.html#Contributions">Educational research</a> reveals several reasons:
 
 * <span style="color: white">Real scientists as mentors.</span>
 * <span style="color: white">A personal approach, treating youth as colleagues rather than children.</span>
