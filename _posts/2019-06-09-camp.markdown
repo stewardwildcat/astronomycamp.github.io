@@ -22,7 +22,7 @@ We are proud that <a href="GraduateStudents.html">former Campers</a> earned adva
 
 **Parents** often ask why the teen Astronomy Camps are so <strong>&quot;life-changing.&quot;</strong><a href="publications.html#Contributions">Educational research</a> reveals several reasons:   
 
-<ul>    
+<ul color: white>
 <li>Real scientists as mentors.</li>
 <li>A personal approach, treating youth as colleagues rather than children.</li>
 <li><em>Authentic</em> scientific inquiry with realistic projects involving modern equipment.</li>
