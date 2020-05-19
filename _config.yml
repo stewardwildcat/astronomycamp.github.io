@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
 
-title: Astronomy Camp | Celebrating 32 Years of Summer Science Camps
-description: Exploring together with the spirit of Apollo - Astronomy Camp 2019 # this means to ignore newlines until "baseurl:"
+title: Astronomy Camp | Celebrating 34 Years of Summer Science Camps
+description: Exploring together with the spirit of Apollo - Astronomy Camp 2020 # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://astronomycamp.org" # the base hostname & protocol for your site, e.g. http://example.com
 
