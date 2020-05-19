@@ -9,18 +9,22 @@ tags:
 
 <!--![]({{site.baseurl}}/img/11.jpg)<img alt="Astronomy Camp 2019: Continuing to inspire through authentic exploration." title="Come explore the skies with students from around the world. (Image from Apollo 15; July 26, 1971)" src="img/11.jpg">-->
 
-## Astronomy Camp
+## Astronomy Camp - Join us for some far-out science!
 
-### Join us for some real, fun science!
+### What is Astronomy Camp?
 
-Under the dark skies of Southern Arizona, students of all ages explore &quot;the heavens&quot; with large telescopes and experience the excitement of scientific inquiry. **Astronomy camp** is all about discovering the Eureka moment! The <a href="http://www.azwild.org/regions/skyisland.php">&quot;sky island&quot;</a> environment of  <a href="./pages/lemmon.html">Mount Lemmon Observatory</a> immediately north of <a href="http://www.visittucson.org/visitor/about/">Tucson, Arizona,</a> is inspirational and motivates exploration. Since 1988, thousands of people <a href="./images/US&World2014.jpg">worldwide</a> have become real astronomers; operating research-class telescopes and technology, interacting with leading scientists, interpreting their own observations, investigating their own questions and curiosities, and most importantly having fun.
+Under the dark skies of Southern Arizona, students of all ages explore with large telescopes and experience the excitement of scientific inquiry. **Astronomy camp is all about discovering the Eureka moment!** The <a href="http://www.azwild.org/regions/skyisland.php">&quot;sky island&quot;</a> environment of  <a href="./pages/lemmon.html">Mount Lemmon Station Observatory</a> immediately north of <a href="http://www.visittucson.org/visitor/about/">Tucson, Arizona,</a> is inspirational to all and motivates exploration through wonder. Since its inception in 1988, Astronomy Camp has hosted thousands of people <a href="./images/US&World2014.jpg">worldwide</a>. Each camper becomes a real astronomer on top of the mountain, operating research-class telescopes and technology, interacting with leading scientists, interpreting their own observations, investigating their own questions and curiosities, and most importantly having fun.
 
-** Astronomy Camp</strong> provides unique opportunities to explore the skies and the environment in general.  Each Camp is an <strong>&quot;immersion&quot;</strong> experience combining all four STEM letters: Science, technology, engineering, and numerical thinking ("math"). We emphasize a <strong>hands-on</strong> learning approach with activities driven by student involvement and interest. A prior background in astronomy is not required, neither is a connection with <a href="http://www.arizona.edu">The University of Arizona</a>.  The Camps are described in numerous <a href="./publications.html">publications</a>, including <a href="./publications.html#Camper_Articles">personal accounts</a> written by Astronomy Campers. 
-These <strong>&quot;science camps&quot;</strong> are available internationally to both <strong>teenagers</strong> and <strong>adults</strong>. We seek to motivate all students to further their education in science, math, engineering, and technical fields, not necessarily to become scientists. To encourage all interested students to explore science and broaden their minds, need-based scholarship opportunities are available!
+Astronomy Camp provides unique opportunities to explore the skies and the environment in general.  Each Camp is an **&quot;immersive learning experience&quot;** combining all four STEM letters: Science, technology, engineering, and numerical thinking. Not to be left out, we push for practice of clear communication strategies and reserach-based teaching techniques. We emphasize **hands-on learning** with activities driven by student involvement and interest. A prior background in astronomy is not required, neither is a connection with <a href="http://www.arizona.edu">The University of Arizona</a>. 
 
-We are proud that <a href="GraduateStudents.html">former Campers</a> earned advanced degrees in a wide variety of disciplines and that <a href="./past_campers.html">many others</a>, including <a href="./CampCounselors.html">our staff</a>, have become leaders in their fields. 
+### Who are we?
 
-**Parents** often ask why the teen Astronomy Camps are so <strong>&quot;life-changing.&quot;</strong><a href="publications.html#Contributions">Educational research</a> reveals several reasons:   
+Astronomy Camp is described in numerous <a href="./publications.html">publications</a>, including <a href="./publications.html#Camper_Articles">personal accounts</a> written by Astronomy Campers. These science camps are available to both teenagers and adult from all over the world. We seek to motivate all students to further their interest in science, math, engineering, and technical fields, not necessarily to become scientists. Need-based scholarship opportunities are available to encourage all interested students to explore science and broaden their minds.
+
+We are proud that <a href="GraduateStudents.html">former Campers</a> earned advanced degrees in a wide variety of disciplines and that <a href="./past_campers.html">many others</a>, including <a href="./CampCounselors.html">our staff</a>, have become leaders in their respective fields. 
+
+### Parents
+Parents often ask why Astronomy Camps are life-changing for both them and their children. <a href="publications.html#Contributions">Educational research</a> reveals several reasons:
 
 <ul body-color: #ffffff;>
 <li>Real scientists as mentors.</li>
