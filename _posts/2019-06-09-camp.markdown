@@ -2,8 +2,6 @@
 layout: post
 title:  Astronomy Camp 2020
 date:   2020-05-19 18:00000 -0800
-image:  /banners/2020milkywaypanoEvanB.jpg
-alttxt: Picture of the Milky Way Galaxy over Mount Lemmon taken by Evan B. - Not shown "Decorator Image."
 description: Discover your place in the stars
 tags:
 ---
@@ -33,3 +31,6 @@ Parents often ask why Astronomy Camps are life-changing for both them and their 
 * Student peers with common interests in science, engineering, and technology
 * A fun attitude toward exploring ideas and seeking answers
 * The Mount Lemmon <a href="http://www.azwild.org/regions/skyisland.php">&quot;sky island&quot;</a> with dark skies and extraordinary immersive environment 
+
+image:  /banners/2020milkywaypanoEvanB.jpg
+alttxt: Picture of the Milky Way Galaxy over Mount Lemmon taken by Evan B. - Not shown "Decorator Image."
