@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  Astronomy Camp 2019
-date:   2020-05-19 18:00000 -0800
+date:   2019-06-20 18:00000 -0800
 image:  /banners/2019Apollo15_EarthMoon.jpg
 alttxt: "Picture of the Moon and Earth from Apollo 15"
-description: Discover your place in the stars
-tags:
+description: Exploring together with the spirit of Apollo
+tags: [Astronomy Camp 2019]
+categories: [testing, Past Camps]
 ---
 
 <!--![]({{site.baseurl}}/img/11.jpg)<img alt="Astronomy Camp 2019: Continuing to inspire through authentic exploration." title="Come explore the skies with students from around the world. (Image from Apollo 15; July 26, 1971)" src="img/11.jpg">-->
