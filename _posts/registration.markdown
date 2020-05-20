@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Registration for Astronomy Camp 2021
-date:   2020-05-19 18:00000 -0800
+date:   2020-05-19 18:00001 -0800
 image:  11.jpg
 alttxt: "Picture of the canyon"
 description: Reserving your spot
