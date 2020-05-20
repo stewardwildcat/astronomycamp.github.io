@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Astronomy Camp 2020
+title:  Astronomy Camp 2019
 date:   2020-05-19 18:00000 -0800
-image:  /banners/2020milkywaypanoEvanB.jpg
-alttxt: "Picture of the Milky Way Galaxy over Mount Lemmon taken by Evan B."
+image:  /banners/2019Apollo15_EarthMoon.jpg
+alttxt: "Picture of the Moon and Earth from Apollo 15"
 description: Discover your place in the stars
 tags:
 ---
