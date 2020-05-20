@@ -1,4 +1,4 @@
-// Post minheight 430
+// Post minheight 430, padding 50%
 .post {
   margin-bottom: 20px;
 }
@@ -27,7 +27,7 @@
     content: "";
     display: table;
     width: 100%;
-    padding-top: 50%;
+    padding-top: 0%;
   }
 }
 
