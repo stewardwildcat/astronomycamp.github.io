@@ -5,7 +5,7 @@ date:   2020-05-19 18:00000 -0800
 image:  /banners/2020milkywaypanoEvanB.jpg
 alttxt: "Picture of the Milky Way Galaxy over Mount Lemmon taken by Evan B."
 description: Discover your place in the stars
-tags: 
+tags: Astronomy-Camp-2020
 categories: [testing, sticky]
 ---
 
