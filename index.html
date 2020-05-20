@@ -17,8 +17,8 @@ layout: default
 </div>
 <div class="container">
 	<div class="row">
-	{% if site.tests.size > 0 %}
-		{%- for post in paginator.tests -%}
+	{% if site.posts.size > 0 %}
+		{%- for post in paginator.posts -%}
 		{% if forloop.index <= 1 %}
 		<div class="col col-12">
 			<article class="article-first">
