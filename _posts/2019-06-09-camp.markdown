@@ -3,6 +3,7 @@ layout: post
 title:  Astronomy Camp 2020
 date:   2020-05-19 18:00000 -0800
 image:  /banners/2020milkywaypanoEvanB.jpg
+alttxt: Picture of the Milky Way Galaxy over Mount Lemmon taken by Evan B. - Not shown "Decorator Image."
 description: Discover your place in the stars
 tags:
 ---
@@ -26,10 +27,9 @@ We are proud that <a href="GraduateStudents.html">former Campers</a> earned adva
 ### Parents
 Parents often ask why Astronomy Camps are life-changing for both them and their children. <a href="publications.html#Contributions">Educational research</a> reveals several reasons:
 
-* Real scientists as mentors.
-* A personal approach, treating youth as colleagues rather than children.
-* *Authentic* scientific inquiry with realistic projects involving modern equipment.
-* Student peers with common interests in science and engineering.
-* A fun attitude toward learning, exploring ideas, and searching for answers.
-* The aesthetic qualities of the <a href="http://www.azwild.org/regions/skyisland.php">&quot;sky islands&quot;</a> of Southern Arizona with dark skies.
-
+* Real scientists as mentors
+* A personal approach, treating youth as colleagues rather than children
+* *Authentic* scientific inquiry with realistic projects involving modern equipment
+* Student peers with common interests in science, engineering, and technology
+* A fun attitude toward exploring ideas and seeking answers
+* The Mount Lemmon <a href="http://www.azwild.org/regions/skyisland.php">&quot;sky island&quot;</a> with dark skies and extraordinary immersive environment 
