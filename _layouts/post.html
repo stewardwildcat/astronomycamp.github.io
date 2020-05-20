@@ -5,7 +5,11 @@ layout: default
 	<div class="row">
 		<div class="col col-12">
 			<div class="post-image-box">
-				<div class="post-image" style="background-image: url({{"/img/" | prepend: site.baseurl | append : page.image}})" role="img" aria-label={{page.alttxt}}></div>
+				<div class="post-image" 
+				<img src=url({{"/img/" | prepend: site.baseurl | append : page.image}}) alt={{page.alttxt}} title={{page.alttxt}}>
+				<!--style="background-image: url({{"/img/" | prepend: site.baseurl | append : page.image}})" role="img" aria-label={{page.alttxt}}> -->
+					
+				</div>
 			</div>
 		</div>
 	</div>
