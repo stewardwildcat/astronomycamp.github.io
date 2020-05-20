@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  Astronomy Camp
 date:   2020-05-19 18:00000 -0800
 image:  /banners/banner2019.jpg
