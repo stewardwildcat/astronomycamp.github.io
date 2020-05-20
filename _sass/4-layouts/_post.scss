@@ -161,7 +161,7 @@
 .prev, .next {
   flex-basis: 100%;
   padding: 15px;
-  background: #26272B;
+  background: $blue-darken;
   &:hover {
     background: darken(#26272B, 3%);
     .post-nav-title {
