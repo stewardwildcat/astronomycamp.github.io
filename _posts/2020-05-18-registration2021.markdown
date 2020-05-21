@@ -34,9 +34,9 @@ Click on the type of Camp for descriptive information about that particular oppo
 
 <table border="2" cellpadding="3" cellspacing="0">
 	<colgroup>
-		<col width="15%" />
-		<col width="15%" />
-		<col width="15%" />
+		<col width="15%" align="center" />
+		<col width="15%" align="center" />
+		<col width="15%" align="center" />
 		<col width="55%" />
 	</colgroup>
 	<thead>
@@ -49,9 +49,9 @@ Click on the type of Camp for descriptive information about that particular oppo
 	</thead>
 	<tbody>
 	<tr>
-		<td align="center">Beginning Teen&nbsp;Camp</td>
-		<td align="center">June 10-16, 2020</td>
-		<td align="center"><span style="color: red;">waitlist - canceled</span></td><!-- colors: limegreen, orange, red -->
+		<td Beginning Teen&nbsp;Camp</td>
+		<td >June 10-16, 2020</td>
+		<td ><span style="color: red;">waitlist - canceled</span></td><!-- colors: limegreen, orange, red -->
 		<td markdown="span">Introductory coverage of astronomy, engineering, &amp; physical science; operate 12, 24, [32-inch](https://skycenter.arizona.edu/content/remote-observing) telescopes; observe with the [61-inch Kuiper telescope](http://james.as.arizona.edu/~psmith/61inch/).</td>
 	</tr>
 	<tr>
