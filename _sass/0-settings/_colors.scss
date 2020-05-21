@@ -6,7 +6,7 @@ $white: #FF0000;
 $cool-grey: #E2E9EB;
 $az-oasis: #378DBD;
 $highlight: $az-oasis;
-$text: $cool-grey;
+
 $gray-blue: #707890;
 $white: #ffffff;
 $black: #101010;
@@ -24,8 +24,11 @@ $success: #34a74e;
 $background: $blue-black;
 
 // Body Color
+$text: $cool-grey;
 $body-color: $text;
 $bold-color: $white;
+$table-text: $white;
+$table-background: $blue-black;
 
 // Headings
 $heading-font-color: $warm-grey;

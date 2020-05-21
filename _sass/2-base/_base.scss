@@ -179,7 +179,7 @@ pre {
 
 table {
   font-size: 12px;
-  color:$black;
+  color:$table-text;
   width: 100%;
   border-width: 1px;
   border-color: $gray-blue;
@@ -191,15 +191,15 @@ table th {
   font-size: 16px;
   text-align: left;
   border: 1px solid $gray-blue;
-  color: $white;
+  color: $black;
   background-color: $primary-color;
 }
 
 table tr {
-  background-color: lighten($background, 15%);
+  background-color: lighten($table-background, 15%);
   transition: all .3s ease;
   &:nth-child(even) {
-    background-color: $background;
+    background-color: $table-background;
   }
 }
 
@@ -210,5 +210,5 @@ table td {
 }
 
 table tr:hover {
-  background-color: lighten($background, 15%);
+  background-color: lighten($table-background, 15%);
 }
