@@ -51,19 +51,19 @@ Astronomy Camp provides unique opportunities to explore the skies and the enviro
 	<tr>
 		<td align="center">Beginning Teen Camp</td>
 		<td align="center">June 10 - 16, 2020</td>
-		<td align="center"><span style="color: red;">waitlist - canceled</span></td><!-- colors: ligreen, orange, red -->
+		<td align="center"><span style="color: red;">waitlist - canceled</span></td><!-- colors: limegreen, orange, red -->
 		<td align="center"><a href="https://en.wikipedia.org/wiki/Mount_Lemmon_Observatory">Mt. Lemmon Observatory</a> Introductory coverage of astronomy, engineering, &amp; physical science; operate 12, 24, <a href="https://skycenter.arizona.edu/content/remote-observing">32-inch</a> telescopes; observe with the 61" <a href="http://james.as.arizona.edu/~psmith/61inch/">Kuiper</a> telescope.</td>
 	</tr>
 	<tr>
 		<td align="center">Advanced Teen Camp</td>
 		<td align="center">June 19 - 26, 2020</td>
-		<td align="center"><span style="color: red;">waitlist - canceled</span></td><!-- colors: green, orange, red -->
+		<td align="center"><span style="color: red;">waitlist - canceled</span></td><!-- colors: limegreen, orange, red -->
 		<td align="center"><a href="https://en.wikipedia.org/wiki/Mount_Lemmon_Observatory">Mt. Lemmon Observatory</a> Quantitative observing projects with 12, 24, <a href="https://skycenter.arizona.edu/content/remote-observing"> 32-inch</a> telescopes, <a href="http://james.as.arizona.edu/~psmith/61inch/">61-inch</a>, <a href="https://www.as.arizona.edu/arizona-radio-observatory">radio telescopes</a>.<br/> Requires either Algebra II or Geometry.</td>
 	</tr>
 	<tr><!-- colors: green, orange, red -->
 		<td align="center">Adult Camp</td>
 		<td align="center">Pending</td>
-		<td align="center"><span style="color: limegreen;"> pending </span></td><!-- colors: green, orange, red -->
+		<td align="center"><span style="color: orange;"> pending </span></td><!-- colors: limegreen, orange, red -->
 		<td align="center">Probably held in Spring 2021</td>
 	</tr>
 </table>

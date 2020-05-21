@@ -197,7 +197,7 @@ table th {
 }
 
 table tr {
-  background-color: lighten($table-background, 15%);
+  background-color: lighten($table-background, 7.5%);
   transition: all .3s ease;
   &:nth-child(even) {
     background-color: $table-background;
@@ -211,5 +211,5 @@ table td {
 }
 
 table tr:hover {
-  background-color: lighten($table-background, 15%);
+  background-color: darken($table-background, 15%);
 }
