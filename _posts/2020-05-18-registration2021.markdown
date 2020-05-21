@@ -46,7 +46,7 @@ Astronomy Camp provides unique opportunities to explore the skies and the enviro
 		<col width="20%" />
 		<col width="20%" />
 		<col width="10%" />
-		<col width="40%" />
+		<col width="50%" />
 	</colgroup>
 	<thead>
 		<th>CAMP&nbsp;DESCRIPTION</th>
