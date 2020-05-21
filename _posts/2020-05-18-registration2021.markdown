@@ -49,7 +49,7 @@ Click on the type of Camp for descriptive information about that particular oppo
 	</thead>
 	<tbody>
 	<tr>
-		<td Beginning Teen&nbsp;Camp</td>
+		<td >Beginning Teen&nbsp;Camp</td>
 		<td >June 10-16, 2020</td>
 		<td ><span style="color: red;">waitlist - canceled</span></td><!-- colors: limegreen, orange, red -->
 		<td markdown="span">Introductory coverage of astronomy, engineering, &amp; physical science; operate 12, 24, [32-inch](https://skycenter.arizona.edu/content/remote-observing) telescopes; observe with the [61-inch Kuiper telescope](http://james.as.arizona.edu/~psmith/61inch/).</td>
