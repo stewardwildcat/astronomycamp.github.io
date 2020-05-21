@@ -38,6 +38,9 @@ Astronomy Camp provides unique opportunities to explore the skies and the enviro
 | Advanced Teen Camp | June 19 - 26, 2020 |waitlist - Canceled | Camps have been canceled until 2021 |
 | Adult Camp | Pending | _ | Camps have been canceled until 2021 |
 
+
+## TEST TABLE
+
 <table border="2" cellpadding="3" cellspacing="0">
 	<tr>
 	<td align="center"><strong>APPLICATION MATERIALS</strong></td>
