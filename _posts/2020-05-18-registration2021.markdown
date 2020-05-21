@@ -59,21 +59,21 @@ Astronomy Camp provides unique opportunities to explore the skies and the enviro
 	<tbody>
 	<tr>
 		<td align="center">Beginning Teen&nbsp;Camp</td>
-		<td align="center">June 10 - 16, 2020</td>
+		<td align="center">June 10-16, 2020</td>
 		<td align="center"><span style="color: red;">waitlist - canceled</span></td><!-- colors: limegreen, orange, red -->
-		<td>Introductory coverage of astronomy, engineering, &amp; physical science; operate 12, 24, <a href="https://skycenter.arizona.edu/content/remote-observing">32-inch</a> telescopes; observe with the 61" <a href="http://james.as.arizona.edu/~psmith/61inch/">Kuiper</a> telescope.</td>
+		<td markdown="span">Introductory coverage of astronomy, engineering, &amp; physical science; operate 12, 24, [32-inch](https://skycenter.arizona.edu/content/remote-observing) telescopes; observe with the [61" Kuiper telescope](http://james.as.arizona.edu/~psmith/61inch/).</td>
 	</tr>
 	<tr>
 		<td align="center">Advanced Teen&nbsp;Camp</td>
-		<td align="center">June 19 - 26, 2020</td>
+		<td align="center">June 19-26, 2020</td>
 		<td align="center"><span style="color: red;">waitlist - canceled</span></td><!-- colors: limegreen, orange, red -->
-		<td>Quantitative observing projects with 12, 24, <a href="https://skycenter.arizona.edu/content/remote-observing"> 32-inch</a> telescopes, <a href="http://james.as.arizona.edu/~psmith/61inch/">61-inch</a>, <a href="https://www.as.arizona.edu/arizona-radio-observatory">radio telescopes</a>.<br/> <em>Requires either Algebra II or Geometry</em>.</td>
+		<td markdown="span">Quantitative observing projects with 12, 24, <a href="https://skycenter.arizona.edu/content/remote-observing"> 32-inch</a> telescopes, <a href="http://james.as.arizona.edu/~psmith/61inch/">61-inch</a>, <a href="https://www.as.arizona.edu/arizona-radio-observatory">radio telescopes</a>.<br/> <em>Requires either Algebra II or Geometry</em>.</td>
 	</tr>
 	<tr><!-- colors: green, orange, red -->
 		<td align="center">Adult&nbsp;Camp </td>
 		<td align="center">Pending</td>
 		<td align="center"><span style="color: orange;"> pending </span></td><!-- colors: limegreen, orange, red -->
-		<td>Probably held in Spring 2021</td>
+		<td markdown="span">Probably held in Spring 2021</td>
 	</tr>
 	</tbody>
 </table>
