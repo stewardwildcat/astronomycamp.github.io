@@ -43,10 +43,10 @@ Astronomy Camp provides unique opportunities to explore the skies and the enviro
 
 <table border="2" cellpadding="3" cellspacing="0">
 	<tr>
-	<th align="center">test<strong>APPLICATION MATERIALS</strong></th>
-	<th  align="center"><strong>CAMP DESCRIPTION</strong></th>
-	<th align="center" width="60"><strong>STATUS</strong></th>
-	<th align="center"><strong>HIGHLIGHTS</strong></th>
+	<th>test<strong>APPLICATION MATERIALS</strong></th>
+	<th><strong>CAMP DESCRIPTION</strong></th>
+	<th><strong>STATUS</strong></th>
+	<th><strong>HIGHLIGHTS</strong></th>
 	</tr>
 	<tr>
 	<td align="center" height="50"><a href="docs/btcapp.html"><b>June 10-16</b></a></td>
