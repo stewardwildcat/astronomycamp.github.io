@@ -44,7 +44,7 @@ Astronomy Camp provides unique opportunities to explore the skies and the enviro
 <table border="2" cellpadding="3" cellspacing="0">
 	<tr>
 		<th>CAMP DESCRIPTION</th>
-		<th>DATES</th>
+		<th>DATES        </th>
 		<th>STATUS</th>
 		<th>NOTES</th>
 	</tr>
