@@ -189,10 +189,11 @@ table {
 table th {
   padding: 8px;
   font-size: 16px;
-  text-align: left;
+  text-align: center;
   border: 1px solid $gray-blue;
-  color: $black;
-  background-color: $primary-color;
+  color: $table-head-text;
+  background-color: $table-head-bg;
+  font-weight: bold;
 }
 
 table tr {
