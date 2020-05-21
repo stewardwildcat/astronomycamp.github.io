@@ -2,7 +2,7 @@
 layout: post
 title:  Registration for Astronomy Camp 2021
 date:   2020-05-19 18:00001 -0800
-image:  /banners/2020milkywaypanoEvanB.jpg
+image:  11.jpg
 alttxt: "Picture of the canyon"
 description: Reserving your spot
 tags: Registration
@@ -13,33 +13,21 @@ categories: [Registration]
 
 ## Registration Information
 
-The dates for the year 2020 Astronomy Camps are as follows.
-Click on the dates for application materials.
-Click on the type of Camp for descriptive information about that particular opportunity.
+The dates for 2020 Astronomy Camps are at found at the bottom of this page. The information on how to register for each camp is found in the next section.
+
+### How to register
 Astronomy Camp does not presume, or require, a background in astronomy. Each Camp is available to interested people from around the world and does not require a previous connection with The University of Arizona.
 
 
-### How to register
-
 #### Beginning Teen Camp
+Click on the dates for application materials.
+Click on the type of Camp for descriptive information about that particular opportunity.
 
 #### Advanced Teen Camp
 
 #### Adult Camp
 
-Under the dark skies of Southern Arizona, students of all ages explore with large telescopes and experience the excitement of scientific inquiry. **Astronomy camp is all about discovering the Eureka moment!** The <a href="http://www.azwild.org/regions/skyisland.php">&quot;sky island&quot;</a> environment of  <a href="./pages/lemmon.html">Mount Lemmon Observatory</a> immediately north of <a href="http://www.visittucson.org/visitor/about/">Tucson, Arizona,</a> is inspirational to all and motivates exploration through wonder. Since its inception in 1988, Astronomy Camp has hosted thousands of people <a href="./images/US&World2014.jpg">worldwide</a>. Each camper becomes a real astronomer on top of the mountain, operating research-class telescopes and technology, interacting with leading scientists, interpreting their own observations, investigating their own questions and curiosities, and most importantly having fun.
-
-Astronomy Camp provides unique opportunities to explore the skies and the environment in general.  Each Camp is an **&quot;immersive learning experience&quot;** combining all four STEM letters: Science, technology, engineering, and numerical thinking. Not to be left out, we push for practice of clear communication strategies and reserach-based teaching techniques. We emphasize **hands-on learning** with activities driven by student involvement and interest. A prior background in astronomy is not required, neither is a connection with <a href="http://www.arizona.edu">The University of Arizona</a>. 
-
-### Are the camps full?
-
-| Camp Description | Dates | STATUS | Notes|
-| Beginning Teen Camp | June 10 - 16, 2020 | waitlist - canceled | Camps have been canceled until 2021 | 
-| Advanced Teen Camp | June 19 - 26, 2020 |waitlist - Canceled | Camps have been canceled until 2021 |
-| Adult Camp | Pending | _ | Introductory coverage of astronomy, engineering, &amp; physical science; operate 12, 24, <a href="https://skycenter.arizona.edu/content/remote-observing">32-inch</a> telescopes; observe with the 61" <a href="http://james.as.arizona.edu/~psmith/61inch/">Kuiper</a> telescope. |
-
-
-## TEST TABLE
+### Camp Dates
 
 <table border="2" cellpadding="3" cellspacing="0">
 	<colgroup>
