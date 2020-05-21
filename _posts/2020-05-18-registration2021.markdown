@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  Registration for Astronomy Camp 2021
 date:   2020-05-19 18:00001 -0800
 image:  /banners/2020milkywaypanoEvanB.jpg
