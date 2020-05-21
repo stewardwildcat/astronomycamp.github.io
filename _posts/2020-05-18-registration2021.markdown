@@ -13,7 +13,19 @@ categories: [Registration]
 
 ## Registration Information
 
+The dates for the year 2020 Astronomy Camps are as follows.
+Click on the dates for application materials.
+Click on the type of Camp for descriptive information about that particular opportunity.
+Astronomy Camp does not presume, or require, a background in astronomy. Each Camp is available to interested people from around the world and does not require a previous connection with The University of Arizona.
+
+
 ### How to register
+
+#### Beginning Teen Camp
+
+#### Advanced Teen Camp
+
+#### Adult Camp
 
 Under the dark skies of Southern Arizona, students of all ages explore with large telescopes and experience the excitement of scientific inquiry. **Astronomy camp is all about discovering the Eureka moment!** The <a href="http://www.azwild.org/regions/skyisland.php">&quot;sky island&quot;</a> environment of  <a href="./pages/lemmon.html">Mount Lemmon Observatory</a> immediately north of <a href="http://www.visittucson.org/visitor/about/">Tucson, Arizona,</a> is inspirational to all and motivates exploration through wonder. Since its inception in 1988, Astronomy Camp has hosted thousands of people <a href="./images/US&World2014.jpg">worldwide</a>. Each camper becomes a real astronomer on top of the mountain, operating research-class telescopes and technology, interacting with leading scientists, interpreting their own observations, investigating their own questions and curiosities, and most importantly having fun.
 
@@ -21,6 +33,8 @@ Astronomy Camp provides unique opportunities to explore the skies and the enviro
 
 ### Are the camps full?
 
-Astronomy Camp is described in numerous <a href="./publications.html">publications</a>, including <a href="./publications.html#Camper_Articles">personal accounts</a> written by Astronomy Campers. These science camps are available to both teenagers and adult from all over the world. We seek to motivate all students to further their interest in science, math, engineering, and technical fields, not necessarily to become scientists. Need-based scholarship opportunities are available to encourage all interested students to explore science and broaden their minds.
-
-We are proud that <a href="GraduateStudents.html">former Campers</a> earned advanced degrees in a wide variety of disciplines and that <a href="./past_campers.html">many others</a>, including <a href="./CampCounselors.html">our staff</a>, have become leaders in their respective fields. 
+| Camp Description | Dates | STATUS | Notes|
+|_________________|________|________|________|
+| Beginning Teen Camp | June 10 - 16, 2020 | waitlist - Canceled | _ | 
+| Advanced Teen Camp | June 19 - 26, 2020 |waitlist - Canceled | _ |
+| Adult Camp | Pending | _ | _ |
