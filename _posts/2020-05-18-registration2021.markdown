@@ -42,12 +42,18 @@ Astronomy Camp provides unique opportunities to explore the skies and the enviro
 ## TEST TABLE
 
 <table border="2" cellpadding="3" cellspacing="0">
-	<tr>
+	<colgroup>
+		<col width="20%" />
+		<col width="20%" />
+		<col width="10%" />
+		<col width="40%" />
+	</colgroup>
+	<thead>
 		<th>CAMP DESCRIPTION</th>
-		<th>DATES        </th>
+		<th>DATES</th>
 		<th>STATUS</th>
 		<th>NOTES</th>
-	</tr>
+	</thead>
 	<tr>
 		<td align="center">Beginning Teen Camp</td>
 		<td align="center">June 10 - 16, 2020</td>
