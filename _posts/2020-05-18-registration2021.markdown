@@ -13,24 +13,20 @@ categories: [Registration]
 
 ## Registration Information
 
-The dates for 2020 Astronomy Camps are at found at the bottom of this page. The information on how to register for each camp is found in the next section.
+The dates for 2020 Astronomy Camps are at found at the bottom of this page. The information on how to register for each camp is found in the next section. Astronomy Camp does not presume, or require, a background in astronomy. Each Camp is available to interested people from around the world and does not require a previous connection with The University of Arizona. Different camps have different application materials so please make sure you are selecting the camp to which you are applying.
 
-### How to register
-Astronomy Camp does not presume, or require, a background in astronomy. Each Camp is available to interested people from around the world and does not require a previous connection with The University of Arizona. Different camps have different application materials so please make sure you are selecting the camp to which you are applying.
+## Camp Descriptions and Registration
 
-#### Beginning Teen Camp
-Click on the dates for application materials.
-Click on the type of Camp for descriptive information about that particular opportunity.
+### Beginning Teen Camp
 
-#### Advanced Teen Camp
-Click on the dates for application materials.
-Click on the type of Camp for descriptive information about that particular opportunity.
 
-#### Adult Camp
-Click on the dates for application materials.
-Click on the type of Camp for descriptive information about that particular opportunity.
+### Advanced Teen Camp
 
-### Camp Dates
+
+### Adult Camp
+
+
+## Camp Dates
 
 <table>
 	<colgroup>

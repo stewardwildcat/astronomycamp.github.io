@@ -15,10 +15,10 @@ categories: [Contact]
 
 ### Camp Director
 
-**[Dr. Don McCarthy](https://www.as.arizona.edu/people/faculty/don-mccarthy)** <br/>
+**[Dr. Don McCarthy](mailto:dmccarthy@as.arizona.edu)** <br/>
 *Astronomer at The University of Arizona* <br/>
 <br/>
-Steward Observatory <br/>
+[Steward Observatory](https://www.as.arizona.edu/) <br/>
 The University of Arizona <br/>
 933 N. Cherry Ave. <br/>
 Tucson, AZ 85721-0065 <br/>
@@ -26,10 +26,10 @@ Tucson, AZ 85721-0065 <br/>
 
 ### Alumni Liason
 
-**[Ms. Lisa Valentine](https://arizonaalumni.com/staff/lisa-valentine-91-97)** <br/>
+**[Ms. Lisa Valentine](mailto:lisaval@al.arizona.edu)** <br/>
 *Director of Alumni Travel* <br/>
 <br/>
-The University of Arizona Alumni Association <br/>
+[The University of Arizona Alumni Association](https://arizonaalumni.com/) <br/>
 1111 N. Cherry Ave. <br/>
 Tucson, AZ 85721-0109 <br/>
 <a href="tel:+18002328278">(800) 232-8278</a><br/>
