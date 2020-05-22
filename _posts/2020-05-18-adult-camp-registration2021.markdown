@@ -1,0 +1,66 @@
+---
+layout: post
+title:  Registration for Astronomy Camp 2021
+date:   2020-05-19 18:00001 -0800
+image:  11.jpg
+alttxt: "Picture of the canyon"
+description: Reserving your spot
+tags: Registration
+categories: [Registration]
+---
+
+<!--![]({{site.baseurl}}/img/11.jpg)<img alt="Astronomy Camp 2019: Continuing to inspire through authentic exploration." title="Come explore the skies with students from around the world. (Image from Apollo 15; July 26, 1971)" src="img/11.jpg">-->
+
+## Registration Information
+
+The dates for 2020 Astronomy Camps are at found at the bottom of this page. The information on how to register for each camp is found in the next section. Astronomy Camp does not presume, or require, a background in astronomy. Each Camp is available to interested people from around the world and does not require a previous connection with The University of Arizona. Different camps have different application materials so please make sure you are selecting the camp to which you are applying.
+
+## Camp Descriptions and Registration
+
+### Beginning Teen Camp
+
+
+### Advanced Teen Camp
+
+
+### Adult Camp
+
+
+## Camp Dates
+
+<table>
+	<colgroup>
+		<col width="15%" />
+		<col width="15%" />
+		<col width="15%" />
+		<col width="55%" />
+	</colgroup>
+	<thead>
+		<tr class="header">
+		<th>CAMP DESCRIPTION</th>
+		<th>DATES</th>
+		<th>STATUS</th>
+		<th>NOTES</th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td align="center">Beginning Teen&nbsp;Camp</td>
+		<td align="center">June 10-16, 2020</td>
+		<td align="center"><span style="color: red;">waitlist - canceled</span></td><!-- colors: limegreen, orange, red   border="2" cellpadding="2" cellspacing="0" -->
+		<td markdown="span">Introductory coverage of astronomy, engineering, &amp; physical science; operate 12, 24, [32-inch](https://skycenter.arizona.edu/content/remote-observing) telescopes; observe with the [61-inch Kuiper telescope](http://james.as.arizona.edu/~psmith/61inch/).</td>
+	</tr>
+	<tr>
+		<td align="center">Advanced Teen&nbsp;Camp</td>
+		<td align="center">June 19-26, 2020</td>
+		<td align="center"><span style="color: red;">waitlist - canceled</span></td><!-- colors: limegreen, orange, red -->
+		<td markdown="span">Quantitative observing projects with 12-inch, 24-inch, [32-inch](https://skycenter.arizona.edu/content/remote-observing), [61-inch Kuiper](http://james.as.arizona.edu/~psmith/61inch/), [radio telescopes](https://www.as.arizona.edu/arizona-radio-observatory).<br/> <em>Requires either Algebra II or Geometry</em>.</td>
+	</tr>
+	<tr><!-- colors: green, orange, red -->
+		<td align="center">Adult&nbsp;Camp </td>
+		<td align="center">Pending</td>
+		<td align="center"><span style="color: orange;"> pending </span></td><!-- colors: limegreen, orange, red -->
+		<td markdown="span">Probably held in *Spring 2021* </td>
+	</tr>
+	</tbody>
+</table>
