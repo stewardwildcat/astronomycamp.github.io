@@ -15,13 +15,13 @@ categories: [sticky]
 
 As the evening falls, campers begin to observe a plethora of celestial objects under the [dark skies](http://darksky.org) of Southern Arizona; they become astronomers. Campers operate research-class telescopes, keep nighttime hours, interact with leading scientists, interpret their own observations, and investigate their own questions about Astronomy and the Universe. Campers will have access to telescope such as those on Mount Lemmon. Examples of which include:
 
-	* 11-inch Celestron with [Hyperstar](https://starizona.com/hyperstar/)
-	* 12-inch Meade LX-200
-	* [61-inch Kuiper](http://james.as.arizona.edu/~psmith/61inch/) telescope on Mount Bigelow
-	* [24, and 32-inch](http://www.as.arizona.edu/schulman-telescope) telescopes on Mount Lemmon
-	* [90-inch Bok](http://james.as.arizona.edu/~psmith/90inch/90inch.html) telescope on Kitt Peak
-	* [Arizona Radio Observatory](http://aro.as.arizona.edu/) 12-meter telescope on Kitt Peak
-	* [Submillimeter Radio Telescope](http://aro.as.arizona.edu/smt_docs/smt_telescope_specs.htm) at the [Mount Graham International Observatory](http://mgio.arizona.edu/)
+* 11-inch Celestron with [Hyperstar](https://starizona.com/hyperstar/)
+* 12-inch Meade LX-200
+* [61-inch Kuiper](http://james.as.arizona.edu/~psmith/61inch/) telescope on Mount Bigelow
+* [24, and 32-inch](http://www.as.arizona.edu/schulman-telescope) telescopes on Mount Lemmon
+* [90-inch Bok](http://james.as.arizona.edu/~psmith/90inch/90inch.html) telescope on Kitt Peak
+* [Arizona Radio Observatory](http://aro.as.arizona.edu/) 12-meter telescope on Kitt Peak
+* [Submillimeter Radio Telescope](http://aro.as.arizona.edu/smt_docs/smt_telescope_specs.htm) at the [Mount Graham International Observatory](http://mgio.arizona.edu/)
 
 By the end of Camp all Campers are intimately connected with some of the most advanced technology available for cosmic discovery. Astronomy is about exploring the unknown, and Astronomy Camp fosters that philosophy.
 
