@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Astronomy Camp General Information
+title:  Information about Astronomy Camp
 date:   2020-05-20 18:00000 -0800
 image:  
 alttxt: ""
@@ -11,7 +11,7 @@ categories: [sticky]
 
 <!--![]({{site.baseurl}}/img/11.jpg)<img alt="Astronomy Camp 2019: Continuing to inspire through authentic exploration." title="Come explore the skies with students from around the world. (Image from Apollo 15; July 26, 1971)" src="img/11.jpg">-->
 
-**Astronomy Camp**is directed by astronomer [Dr. Don McCarthy]({% post_url 2020-05-17-director %}) together with an engaging, [knowledgable staff]({% post_url 2019-06-09-alumni-CampCounselors %}), many of whom are former Astronomy Campers. Building on more than 30 years of experience, they offer an opportunity for both young and old to experience the universe in new and exciting ways. Teenage students gain a *cosmic perspective* of the Earth, themselves, and where they belong in the Universe. We examine careers and reinforce school lessons through authentic scientific investigations and engineering applications. With the wide range of topics incorporated into the Astronomy Camp curriculum, it is a well-rounded science camp; much more than star gazing. Adults escape from the regular routines of daily life freeing them to wonder and seek answers to a lifetime of questions. Every Camper is able to **Reach for the Stars!**
+**Astronomy Camp** is directed by astronomer [Dr. Don McCarthy]({% post_url 2020-05-17-director %}) together with an engaging, [knowledgable staff]({% post_url 2019-06-09-alumni-CampCounselors %}), many of whom are former Astronomy Campers. Building on more than 30 years of experience, they offer an opportunity for both young and old to experience the universe in new and exciting ways. Teenage students gain a *cosmic perspective* of the Earth, themselves, and where they belong in the Universe. We examine careers and reinforce school lessons through authentic scientific investigations and engineering applications. With the wide range of topics incorporated into the Astronomy Camp curriculum, it is a well-rounded science camp; much more than star gazing. Adults escape from the regular routines of daily life freeing them to wonder and seek answers to a lifetime of questions. Every Camper is able to **Reach for the Stars!**
 
 As the evening falls, campers begin to observe a plethora of celestial objects under the [dark skies](http://darksky.org) of Southern Arizona; they become astronomers. Campers operate research-class telescopes, keep nighttime hours, interact with leading scientists, interpret their own observations, and investigate their own questions about Astronomy and the Universe. Campers will have access to telescope such as those on Mount Lemmon. Examples of which include:
 
