@@ -1,0 +1,36 @@
+---
+layout: post
+title:  Contact Astronomy Camp
+date:   2020-05-22 08:00000 -0800
+image:  
+alttxt: 
+description: How to contact us.
+tags: [Contact]
+categories: [Contact]
+---
+
+<!--![]({{site.baseurl}}/img/11.jpg)<img alt="Astronomy Camp 2019: Continuing to inspire through authentic exploration." title="Come explore the skies with students from around the world. (Image from Apollo 15; July 26, 1971)" src="img/11.jpg">-->
+
+## Contact Information
+
+### Camp Director
+
+Dr. Don McCarthy </br>
+Astronomer at The University of Arizona </br>
+</br>
+Steward Observatory </br>
+The University of Arizona </br>
+933 N. Cherry Ave. </br>
+Tucson, AZ 85721-0065 </br>
+</br>
+
+### Alumni Liason
+
+Ms. Lisa Valentine </br>
+Director of Alumni Travel </br>
+</br>
+The University of Arizona Alumni Association </br>
+1111 N. Cherry Ave. </br>
+Tucson, AZ 85721-0109 </br>
+(800) 232-8278 </br>
+(800) BEAT ASU </br>
