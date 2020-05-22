@@ -32,5 +32,5 @@ Director of Alumni Travel <br/>
 The University of Arizona Alumni Association <br/>
 1111 N. Cherry Ave. <br/>
 Tucson, AZ 85721-0109 <br/>
-(800) 232-8278 <br/>
-(800) BEAT ASU <br/>
+<a href="tel:+18002328278">(800) 232-8278</a><br/>
+<a href="tel:+18002328278">(800) BEAT ASU </a><br/>
