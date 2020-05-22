@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Contact Astronomy Camp
-date:   2019-06-20 18:00000 -0800
+date:   2020-05-22 08:00000 -0800
 image:  
 alttxt: 
 description: How to contact us.
