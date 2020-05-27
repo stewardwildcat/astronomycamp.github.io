@@ -24,6 +24,7 @@ The University of Arizona <br/>
 Tucson, AZ 85721-0065 <br/>
 <br/>
 
+<!--
 ### Alumni Liason
 
 **[Ms. Lisa Valentine](mailto:lisaval@al.arizona.edu)** <br/>
@@ -34,3 +35,4 @@ Tucson, AZ 85721-0065 <br/>
 Tucson, AZ 85721-0109 <br/>
 <a href="tel:+18002328278">(800) 232-8278</a><br/>
 <a href="tel:+18002328278">(800) BEAT ASU </a><br/>
+-->
